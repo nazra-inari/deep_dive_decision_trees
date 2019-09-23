@@ -1,0 +1,2 @@
+# deep_dive_decision_trees
+Decision trees are a supervised learning algorithm used for classification and regression.This post will dive deep into the workings of a decision tree. Along the way, I will walk through a deatiled example and showcase some neccessary skills required to tune and improve any machine learning algorithm. The post will also exhibit some exploratory data analysis and visualization practices that can help better understand the data.
